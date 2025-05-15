@@ -52,6 +52,7 @@ Feel free to reach out on:
 -
 - [Twitter](https://twitter.com/mr_temiw)
 - [GitHub](https://github.com/TemiW3)
+- [Email](mailto:temiw3@gmail.com)
 
 ---
 
