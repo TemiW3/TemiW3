@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Temi</h1>
 
 <p align="center">
-  QA Engineer turned Web3 Builder • Solidity | Foundry | Rust | Solana
+  QA Engineer turned Web3 Developer • Solidity | Foundry | Rust | Solana
 </p>
 
 ---
