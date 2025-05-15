@@ -20,7 +20,7 @@ Right now I'm:
 
 ### 🛠 Tech Stack
 
-- **Languages:** Solidity, Rust, JavaScript, TypeScript, Python
+- **Languages:** Solidity, Rust, JavaScript, TypeScript, Python, Java
 - **Smart Contract Tooling:** Foundry, Hardhat, Anchor
 - **Test Automation:** Playwright, Cypress, Postman, REST APIs
 - **Other:** GitHub Actions, CI/CD, Git, Docker
@@ -49,10 +49,9 @@ Here are a few of the smart contracts I've been working on lately:
 
 I'm always open to connect, collaborate or contribute to open source Web3 projects.  
 Feel free to reach out on:
-
-- [Twitter](https://twitter.com/yourhandle) <!-- Add your handle -->
+-
+- [Twitter](https://twitter.com/mr_temiw)
 - [GitHub](https://github.com/TemiW3)
-- [LinkedIn](https://www.linkedin.com/in/your-profile/) <!-- Optional -->
 
 ---
 
