@@ -42,6 +42,7 @@ Here are a few of the smart contracts I've been working on lately:
 - [**Fund Me**](https://github.com/TemiW3/foundry-fund-me) – ETH crowdfunding contract with price feed integration  
 - [**Smart Contract Lottery**](https://github.com/TemiW3/foundry-smart-contract-lottery) – Chainlink VRF-powered decentralized lottery  
 - [**Account Abstraction**](https://github.com/TemiW3/foundry-account-abstraction) – Early experiments with ERC-4337 wallets
+- [**To Do Project**](https://github.com/TemiW3/crud-app) - Full stack CRUD app in Rust on Solana with React front end
 
 ---
 
