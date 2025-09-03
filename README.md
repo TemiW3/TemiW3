@@ -13,7 +13,7 @@ I'm focused on building smart contracts and decentralized apps — primarily on 
 
 Right now I'm:
 - 🧪 Learning and building with **Solidity + Foundry**
-- 🦾 Exploring **Rust** and the **Solana ecosystem** through a 6-week bootcamp
+- 🦾 Learning and building on **Rust** and the **Solana ecosystem**
 - 🧱 Contributing to open source Web3 projects and hackathons
 
 ---
@@ -39,10 +39,10 @@ Right now I'm:
 
 Here are a few of the smart contracts I've been working on lately:
 
+- [**To Do DApp**](https://github.com/TemiW3/crud-app) - Full stack CRUD Dapp in Rust on Solana with React front end
+- [**Tipping DApp**](https://github.com/TemiW3/tipping-dapp) - Full stack Dapp enabling users to send SOL tips with messages to content creators and other users. Built using Rust with a React front end
 - [**Fund Me**](https://github.com/TemiW3/foundry-fund-me) – ETH crowdfunding contract with price feed integration  
 - [**Smart Contract Lottery**](https://github.com/TemiW3/foundry-smart-contract-lottery) – Chainlink VRF-powered decentralized lottery  
-- [**Account Abstraction**](https://github.com/TemiW3/foundry-account-abstraction) – Early experiments with ERC-4337 wallets
-- [**To Do DApp**](https://github.com/TemiW3/crud-app) - Full stack CRUD app in Rust on Solana with React front end
 
 ---
 
